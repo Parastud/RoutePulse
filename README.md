@@ -8,7 +8,7 @@ A full-stack smart bus management platform built for **Smart India Hackathon 202
 
 ## 📸 App Overview
 
-![RoutePulse App Overview]([https://ibb.co/397QjtX0](https://media.discordapp.net/attachments/717998252602949632/1490419103331258468/Gemini_Generated_Image_gkflkngkflkngkfl.png?ex=69d3fc74&is=69d2aaf4&hm=33bb80dd251fa41f96f746f48b3c8f1ffb0f53e41047a4d305e6e6d80d34d2f1&=&format=webp&quality=lossless&width=649&height=974))
+![RoutePulse App Overview](https://media.discordapp.net/attachments/717998252602949632/1490419103331258468/Gemini_Generated_Image_gkflkngkflkngkfl.png?ex=69d3fc74&is=69d2aaf4&hm=33bb80dd251fa41f96f746f48b3c8f1ffb0f53e41047a4d305e6e6d80d34d2f1&=&format=webp&quality=lossless&width=649&height=974)
 
 > Features authentication, route search, live tracking, seat booking with QR confirmation, and a 3-role system architecture (Passenger / Crew / Admin).
 
