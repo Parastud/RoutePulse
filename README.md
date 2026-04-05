@@ -2,8 +2,6 @@
 
 A full-stack smart bus management platform built for **Smart India Hackathon 2024**, securing **Finalist rank** among 1000+ participating teams. RoutePulse supports real-time bus tracking, ticket booking with QR code confirmation, and a multi-role system for Passengers, Crew, and Admins.
 
-> ⚠️ This project is currently a work in progress / demo. Some features may be incomplete.
-
 ---
 
 ## 📸 App Overview
@@ -134,7 +132,7 @@ GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 ## 🏆 Hackathon
 
-Built for **Smart India Hackathon 2024** — secured **Finalist** rank among **1000+ participating teams** nationwide. Collaborated in a cross-functional team of 4.
+Built for **Smart India Hackathon 2024** — secured **Finalist** rank among **1000+ participating teams** at the college level.
 
 ---
 
