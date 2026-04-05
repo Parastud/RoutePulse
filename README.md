@@ -6,35 +6,11 @@ A full-stack smart bus management platform built for **Smart India Hackathon 202
 
 ---
 
-## 📸 Screenshots
+## 📸 App Overview
 
-### 🔐 Authentication Screens
-> Login and Signup interface for secure access
+![RoutePulse App Overview]("https://ibb.co/397QjtX0")
 
-| Sign Up | Login |
-|---------|-------|
-| ![Signup](assets/screenshots/signup.png) | ![Login](assets/screenshots/login.png) |
-
-### 🗺️ User Experience
-> Bus search, route details, and live tracking
-
-| Bus Search | Route Details |
-|------------|--------------|
-| ![Search](assets/screenshots/bus_search.png) | ![Route](assets/screenshots/route_details.png) |
-
-### 📍 Navigation & Tracking
-> Real-time map tracking and route visualization
-
-| Live Map | Tracking View |
-|----------|--------------|
-| ![Map](assets/screenshots/live_map.png) | ![Track](assets/screenshots/tracking.png) |
-
-### 🎫 Ticket Booking
-> Seamless booking experience with payment confirmation
-
-| Book Ticket | Payment Successful |
-|-------------|-------------------|
-| ![Book](assets/screenshots/book_ticket.png) | ![Payment](assets/screenshots/payment_success.png) |
+> Features authentication, route search, live tracking, seat booking with QR confirmation, and a 3-role system architecture (Passenger / Crew / Admin).
 
 ---
 
