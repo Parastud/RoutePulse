@@ -69,7 +69,7 @@ Success  Results
 | Layer | Technology |
 |-------|-----------|
 | Frontend | React.js, JavaScript |
-| Backend | Node.js, Express.js, Python |
+| Backend | Node.js, Express.js |
 | Database | MongoDB |
 | Real-time | Socket.IO |
 | Maps | Google Maps API |
@@ -82,7 +82,7 @@ Success  Results
 ```
 RoutePulse/
 ├── frontend/       # React.js client
-└── Backend/        # Node.js + Express + Python server
+└── Backend/        # Node.js + Express
 ```
 
 ---
@@ -92,7 +92,6 @@ RoutePulse/
 ### Prerequisites
 
 - Node.js >= 18
-- Python >= 3.8
 - npm or yarn
 
 ### Installation
